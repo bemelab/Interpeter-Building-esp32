@@ -1,0 +1,1 @@
+((sinh(10)*cos(pi/4)^e)/log(e*pi))/(pi^3)
