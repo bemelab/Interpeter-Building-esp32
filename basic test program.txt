@@ -1,1 +1,8 @@
+Math 
 ((sinh(10)*cos(pi/4)^e)/log(e*pi))/(pi^3)
+
+formula for e cALCULATİON
+10 for i=1 to 1000
+20 r=(1+1/i)^i
+30 next i
+40 print r
